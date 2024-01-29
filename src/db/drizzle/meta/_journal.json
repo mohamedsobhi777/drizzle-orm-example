@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706543039010,
+      "tag": "0000_redundant_forgotten_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706547302746,
+      "tag": "0001_left_tony_stark",
+      "breakpoints": true
+    }
+  ]
+}
